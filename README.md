@@ -1,5 +1,8 @@
-## Hi there 👋
+# Josef Vašata 👨‍💻
 
+Hi!
+
+I'm Josef, I study Computer Science at FIT CTU in Prague, with a focus on Artificial Intelligence and Machine Learning.
 <!--
 **vasatjos/vasatjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
