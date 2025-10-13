@@ -5,7 +5,7 @@ Hi!
 I'm Josef, I study Computer Science at FIT CTU in Prague, with a focus on Artificial Intelligence and Machine Learning.
 I enjoy learning things to get a general understanding about pretty much anything and broaden my horizons.
 
-## Tech I'm familiar with ⚙️
+## Technologies I'm familiar with ⚙️
 <table>
   <tr>
     <td align="center">
@@ -16,9 +16,6 @@ I enjoy learning things to get a general understanding about pretty much anythin
     </td>
     <td align="center">
         <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" alt="C++" width="40" height="40"/><br>C++
-    </td>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/><br>Neovim
     </td>
     <td align="center">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" alt="Python" width="40" height="40"/><br>Python
