@@ -5,7 +5,7 @@ Hi!
 I'm Josef, I study Computer Science at FIT CTU in Prague, with a focus on Artificial Intelligence and Machine Learning.
 I enjoy learning things to get a general understanding about pretty much anything and broaden my horizons.
 
-### Tech I'm familiar with ⚙️
+## Tech I'm familiar with ⚙️
 <table>
   <tr>
     <td align="center">
@@ -42,17 +42,5 @@ I enjoy learning things to get a general understanding about pretty much anythin
 
 </table>
 
-<!--
-**vasatjos/vasatjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+- 💼 LinkedIn: [Josef Vašata](https://www.linkedin.com/in/josef-va%C5%A1ata-754a4a317/)
