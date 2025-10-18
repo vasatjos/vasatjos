@@ -12,10 +12,10 @@ I like learning stuff (occasionally) and messing with my configs (often).
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/><br>Linux
     </td>
     <td align="center">
-        <img src="https://devicon-website.vercel.app/api/c/original.svg" alt="C" width="40" height="40"/><br>C
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/><br>C
     </td>
     <td align="center">
-        <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" alt="C++" width="40" height="40"/><br>C++
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/><br>C++
     </td>
     <td align="center">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" alt="Python" width="40" height="40"/><br>Python
