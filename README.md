@@ -2,10 +2,10 @@
 
 Hi!
 
-I'm Josef, I study Computer Science at FIT CTU in Prague, with a focus on Artificial Intelligence and Machine Learning.
-I enjoy learning things to get a general understanding about pretty much anything and broaden my horizons.
+I'm Josef, I study Computer Science at FIT CTU in Prague, with a focus on Artificial Intelligence and Machine Learning.  
+I like learning stuff (occasionally) and messing with my configs (often).
 
-## Technologies I'm familiar with ⚙️
+## What I know ⚙️
 <table>
   <tr>
     <td align="center">
